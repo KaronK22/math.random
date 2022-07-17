@@ -1,0 +1,2 @@
+Generate a random whole number between 0 and 9 and assign the value to randomNum using the Math.random and Math.floor methods.
+
